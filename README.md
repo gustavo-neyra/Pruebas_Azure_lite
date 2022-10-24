@@ -19,3 +19,4 @@ Ejemplo ejecución por consola de bitrise:
 gradle :smokeTests 
 gradle :regresion
 gradle :fastRegresion
+# Pruebas_Azure_lite
